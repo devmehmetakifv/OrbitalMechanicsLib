@@ -1,0 +1,1 @@
+A C++ library for orbital mechanics and space science calculations. This library includes various formulas related to orbital velocity, gravitational force, delta-v, planetary mass, and other key astrophysics concepts. Useful for students, researchers, and space enthusiasts working on trajectory simulations, space exploration, or physics-based applications.
